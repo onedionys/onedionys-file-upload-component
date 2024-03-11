@@ -40,6 +40,7 @@ console.log(result); // Output: File example.txt successfully uploaded.
 ## 📆 Release Date
 
 * v1.0.0 : 08 March 2024
+* v1.0.1 : 11 March 2024
 
 ## 🧑 Author
 
