@@ -1,6 +1,6 @@
 {
   "name": "onedionys-file-upload-component",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (File Upload Component) - A component to allow users to upload files to the server.",
   "main": "src/fileUploadComponent.js",
   "directories": {
